@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon 1_variable/const.js"
+    "start": "nodemon 2_operator/equality.js"
   },
   "keywords": [],
   "author": "",
