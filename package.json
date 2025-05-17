@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon 4_function/immutability.js"
+    "start": "nodemon 5_object/object.js"
   },
   "keywords": [],
   "author": "",
